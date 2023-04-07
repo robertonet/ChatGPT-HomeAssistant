@@ -5,5 +5,5 @@ Com a ajuda do ChatGPT, é possível solicitar coisas como abrir um portão, ace
 
 O projeto já tem um MVP e agora o objetivo é construir uma aplicação para integrar aos dispositivos móveis e assistentes virtuais.
 
-Veja demo link:
+Veja a demonstração:
 https://www.youtube.com/watch?v=Pt1ig2AtulU
